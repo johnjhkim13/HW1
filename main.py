@@ -28,6 +28,10 @@ print(" Hello World Changes Local")
 print(" Hello World Second Updates on GitHun Only")
 
 
+#Minseok Kang added
+print("Hello This is Minseok Kang ")
+=======
+
 print(" Hello this is youngin")
 ======
 # Print the name of each member
